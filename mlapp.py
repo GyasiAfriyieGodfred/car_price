@@ -140,6 +140,5 @@ with col2:
 
         
 st.markdown('---')
-# st.divider()
 st.markdown("[***Powered By DolphWhale Technologies***](https://youtube.com)")
 st.markdown('```Email: gyasi.afriyie@gmail.com```')
